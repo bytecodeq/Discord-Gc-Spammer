@@ -6,7 +6,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![image](https://github.com/user-attachments/assets/ee72fc23-8bb8-4ad5-998f-4d3f69663757)" alt="project-screenshot" width="700" height="400/">
+![image](https://github.com/user-attachments/assets/ce08eab4-7fca-42a7-9769-d74f0cf56451)
+
 
   
   
