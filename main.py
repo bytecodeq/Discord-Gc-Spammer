@@ -25,7 +25,14 @@ from colorama import Fore
 from tls_client import Session
 
 from typing import(
-    List, Dict, Optional, Union, Any, Callable, TypeVar, Tuple
+   List,
+   Dict, 
+   Optional,
+   Union,
+   Any, 
+   Callable,
+   TypeVar, 
+   Tuple,
 ) 
 
 class UI:
