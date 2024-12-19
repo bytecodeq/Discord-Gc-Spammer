@@ -1,5 +1,5 @@
 """
-github.com/evilstrix
+github.com/bytecodeq
 """
 
 try:
